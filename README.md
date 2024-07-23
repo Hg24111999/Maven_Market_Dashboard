@@ -26,13 +26,15 @@ Navigate into the project directory: cd Maven_Market_Dashboard
 
 **Usage:**
 
-Open the .pbix file using Power BI Desktop.
+* Anyone can download all data files for your practice.
 
-Explore different visuals and filters to interact with the data.
+* Open the .pbix file using Power BI Desktop.
 
-Gain insights into Maven-Market's performance metrics across different regions.
+* Explore different visuals and filters to interact with the data.
 
-Future Enhancements
+* Gain insights into Maven-Market's performance metrics across different regions.
+
+* Future Enhancements
 
 **Predictive Analytics:**
 
