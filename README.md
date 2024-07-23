@@ -1,3 +1,5 @@
+**Power BI Dashboard**
+
 **Overview :-**
 This Power BI project analyzes the performance metrics of Maven-Market, a multi-national grocery chain operating in Canada, Mexico, and the United States. It focuses on key insights related to revenue, profit, returns, and transaction volume across these regions.
 
