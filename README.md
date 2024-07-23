@@ -3,30 +3,30 @@ This Power BI project analyzes the performance metrics of Maven-Market, a multi-
 
 **Key Features:-**
 
-1.)Data Sources:- Includes comprehensive data on customers, transactions, returns, products, and stores.
+* Data Sources:- Includes comprehensive data on customers, transactions, returns, products, and stores.
 
-2.)Analysis:- Exhibits KPIs such as current month's revenue, profit margin (~60%), return rate (1% vs. previous month's 1.05%), and transaction volumes (18,325 vs. 17,339 previous month).
+* Analysis:- Exhibits KPIs such as current month's revenue, profit margin (~60%), return rate (1% vs. previous month's 1.05%), and transaction volumes (18,325 vs. 17,339 previous month).
 
-3.)Visualizations:- Utilizes various Power BI visuals to present insights effectively, including charts, graphs, and tables.
+* Visualizations:- Utilizes various Power BI visuals to present insights effectively, including charts, graphs, and tables.
 
 **Insights:-**
 
 Market Performance:
 
-i.)Demonstrates increased transaction volumes indicating robust market activity.
+* Demonstrates increased transaction volumes indicating robust market activity.
 
-ii.)Shows improved return rate despite higher transaction volumes, suggesting effective quality management.
+* Shows improved return rate despite higher transaction volumes, suggesting effective quality management.
 
 **How to Use**
 
 Installation:
-Clone the repository: git clone https://github.com/Hg24111999/Maven_Market_Dashboard.git
+* Clone the repository: git clone https://github.com/Hg24111999/Maven_Market_Dashboard.git
 
-Navigate into the project directory: cd Maven_Market_Dashboard
+* Navigate into the project directory: cd Maven_Market_Dashboard
 
 **Usage:**
 
-* Anyone can download all data files for your practice.
+* I have attached all the data csv files anyone can download and use that for their practice.
 
 * Open the .pbix file using Power BI Desktop.
 
@@ -46,5 +46,4 @@ Analyze purchasing patterns for targeted marketing strategies.
 
 **Contributing**
 
-Contributions are welcome! Feel free to submit issues or pull requests to enhance this Power BI project further.
 Contributions are welcome! Feel free to submit issues or pull requests to enhance this Power BI project further.
